@@ -1,0 +1,16 @@
+.chatbox{
+  height: 400px;
+  background-color: navajowhite;
+}
+.name{
+  padding: 20px;
+  background-color: grey;
+}
+.previous-messages{
+  height: 300px;
+  padding: 20px;
+}
+.text-area{
+  padding: 20px;
+  background-color: bisque;
+}
